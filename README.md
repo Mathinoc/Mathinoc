@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Drag and Drop tutorials (with different libraries and one in pain CSS) 
-- 🌱 I’m currently learning a lot about maps and CSS animation
+- 🌱 I’m currently learning a lot about maps and CSS animations
 - 💬 Feel free to reach out and open a chat on LinkedIn!
 - 📫 Here's where you can find me: https://www.linkedin.com/in/mathieutinoco/
 - ⚡ Fun fact: I can blow air out of my nose and my mouse simultaneously 🌬️
