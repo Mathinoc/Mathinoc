@@ -4,14 +4,14 @@
 
 I am Mathieu, a full stack developer with a focus on frontend. 
 
- 🔭 I’m currently working on 2 projects:
+- 🔭 I’m currently working on 2 projects:
     - Drag and Drop tutorials (two with different libraries and one in plain CSS)
     - an mapping project whose main feature is to animate people's location through years.
 
- 🌱 I’m currently learning a lot about draggable and dropable components, as well as maps and automated video creation.-
- 💬 Feel free to reach out and open a chat on LinkedIn!
+- 🌱 I’m currently learning a lot about draggable and dropable components, as well as maps and automated video creation.-
+- 💬 Feel free to reach out and open a chat on LinkedIn!
 - 📫 Here's where you can find me: https://www.linkedin.com/in/mathieutinoco/
- ⚡ Fun fact: I can blow air out of my nose and my mouse simultaneously 🌬️
+- ⚡ Fun fact: I can blow air out of my nose and my mouse simultaneously 🌬️
 
 ## Skills
 ### Languages
