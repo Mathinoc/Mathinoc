@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Mathieu, a full stack developer who loves both details & dreams.
 
