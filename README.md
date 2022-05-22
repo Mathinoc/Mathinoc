@@ -35,13 +35,13 @@ I'm Mathieu, a full stack developer who loves both details & dreams.
 ### Others
 <p align-"left">
 <img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 
 <!--
+<img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
 - 🌱 I’m currently learning a lot about maps and CSS animations
 - 🔭 I’m currently working on a relationship map project whose main goal is to animate people's location through years.
 - 👯 I’m looking to collaborate on ...
