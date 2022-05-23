@@ -17,8 +17,9 @@ I'm Mathieu, a full stack developer who loves both details & dreams.
 
 ### Frontend development
 <p align-"left">
-<img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/angular-254bdd?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7735f9?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
