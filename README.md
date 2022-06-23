@@ -2,9 +2,7 @@
 
 I'm Mathieu, a full stack developer who loves both details & dreams.
 
-- 🌱 I’m currently working on 2 projects:
-    - Drag and Drop tutorials (two with different libraries and one in plain CSS)
-    - A mapping app to animate friends location through time.
+- 🌱 As a side project I'm working on a mapping app to animate friends location through time.
 - 💬 Feel free to reach out and open a chat on LinkedIn! You can find me: https://www.linkedin.com/in/mathieutinoco/
 - 🏊 In my free time, you can find me sewing an improved towel poncho for post-kiteboarding sessions, discovering the best way to germinate seeds from the grocery store, or tinkering with a little app to visualize movement in my transcontinental social network.
 
@@ -45,6 +43,7 @@ I'm Mathieu, a full stack developer who loves both details & dreams.
 
 <!--
 <img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
+    - Drag and Drop tutorials (two with different libraries and one in plain CSS)
 - 🌱 I’m currently learning a lot about maps and CSS animations
 - 🔭 I’m currently working on a relationship map project whose main goal is to animate people's location through years
 - 👯 I’m looking to collaborate on ...
