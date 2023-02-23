@@ -11,6 +11,7 @@ I'm Mathieu, a full stack developer who loves both details & dreams.
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/ruby-800601?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
 ### Frontend development
@@ -31,6 +32,7 @@ I'm Mathieu, a full stack developer who loves both details & dreams.
 <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
 <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/rails-800601?style=for-the-badge&logo=rubyonrails&logoColor=white">
 </p>
 
 ### Others
