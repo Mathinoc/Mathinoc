@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Mathieu, a full stack developer who loves both details & dreams.
+I'm Mathieu, a full stack developer who loves both details & dreams. 
 
 - 🌱 As a side project I'm working on a mapping app to animate friends location through time.
 - 💬 Feel free to reach out and open a chat on LinkedIn! You can find me: https://www.linkedin.com/in/mathieutinoco/
